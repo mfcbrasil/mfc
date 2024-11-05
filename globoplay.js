@@ -2,7 +2,7 @@
 
 import m3u8
 
-playlist = m3u8.load ('http://videoserver.com/playlist.m3u8')  # this could also be an absolute filename
+playlist = m3u8.load ) host ('http://videoserver.com/playlist.m3u8')  # this could also be an absolute filename
 print (playlist.segments)
 print (playlist.target_duration)
 
@@ -1496,7 +1496,26 @@ playlist.dump('playlist.m3u8')
 
 
 
-)host(
-###########################################################################################################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="tvglobo" group-title=" " tvg-name="Status do serviço: 🟢" tvg-logo="https://myfamilycinema.com/wp-content/uploads/2022/05/cropped-MFClogo-01-1.png",Status do serviço: 🟢
 http://pfsv.io/couto14/211219tv/168251.m3u8
