@@ -1016,5 +1016,8 @@ playlist.dump('playlist.m3u8')
 
 
 
-#EXTINF:-1 tvg-id="tvglobo" group-title="Status do serviço" tvg-name="Status do serviço: 🟢" tvg-logo="https://pbs.twimg.com/profile_images/1851702580046426112/Qpt7Twoy_200x200.jpg",host
+#################################################
+EXTINF:-1 tvg-id="tvglobo" group-title=" " tvg-name="Status do serviço: 🟢" tvg-logo="https://myfamilycinema.com/wp-content/uploads/2022/05/cropped-MFClogo-01-1.png",Status do serviço: 🟢
 http://pfsv.io/couto14/211219tv/168251.m3u8
+#EXTINF:-1 tvg-id="tvglobo" group-title=" " tvg-name="Status do serviço: 🟢" tvg-logo="https://myfamilycinema.com/wp-content/uploads/2022/05/cropped-MFClogo-01-1.png",Status do serviço: 🟢
+http://gerencia.birdtv.xyz/209150345/9276182760/1455155.m3u8
