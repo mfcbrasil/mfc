@@ -1519,3 +1519,4 @@ playlist.dump('playlist.m3u8')
 
 #EXTINF:-1 tvg-id="tvglobo" group-title=" " tvg-name="Status do serviço: 🟢" tvg-logo="https://myfamilycinema.com/wp-content/uploads/2022/05/cropped-MFClogo-01-1.png",Status do serviço: 🟢
 http://pfsv.io/couto14/211219tv/168251.m3u8
+import m3u8 http://pfsv.io/get.php?username=couto14&password=211219tv&type=m3u_plus
