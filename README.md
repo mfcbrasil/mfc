@@ -1,5 +1,2 @@
-# o que e iptv? 🛢️
-O IPTV (Internet Protocol Television)
-(Televisão por IP) é um método de transmissão de sinais televisivos através de redes IP. Diferentemente dos sistemas tradicionais televisivos, o IPTV oferece a capacidade de transmitir a mídia de origem continuamente.
-
-Embora o IPTV use o protocolo da Internet, não está limitada à televisão transmitida pela internet. O IPTV é amplamente implantada em redes de telecomunicações baseadas em assinantes, com canais de acesso de alta velocidade em instalações de usuários finais, também é usada para entrega de mídia em redes corporativas e privadas ⚙️
+# Importante ⚠️
+rcujo único objetivo é fornecer informações cinematográficas. Isso significa que não é responsável por fazer upload de qualquer conteúdo para a plataforma, nem por monitorar a disponibilidade de tal conteúdo. Portanto, os usuários são responsáveis ​​por fazer upload de seu próprio conteúdo, se assim o desejarem. Por este motivo, isenta de qualquer responsabilidade no caso de tal conteúdo ser de natureza ilegal.
