@@ -16,7 +16,7 @@ https://bit.ly/mfcbr_app
 # Ultimo passo ✨
 | Agora coloque esse link 👇
 
-🎬 " https://bit.ly/mfc_brasil "
+🎬 " https://bit.ly/brasil_mfc "
 
 | agora so aproveitar! 📺
 
