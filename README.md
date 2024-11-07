@@ -1,4 +1,4 @@
-# Comece hoje mesmo 🍪
+# Começe hoje mesmo 🍪
 Ao conectar sua nuvem à plataforma, é possível encontrar tudo automaticamente organizado por gênero, tema, premiações e muitas outras categorias, e começar a reproduzir seu conteúdo favorito sem interrupções.
 
 # Blog 🗣️
