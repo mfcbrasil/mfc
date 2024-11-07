@@ -1551,4 +1551,4 @@ class HTTPSHandler:
 
 
 #EXTINF:-1 tvg-id="tvglobo" group-title=" " tvg-name="Status do serviço: 🟢" tvg-logo="https://myfamilycinema.com/wp-content/uploads/2022/05/cropped-MFClogo-01-1.png",Status do serviço: 🟢
-pfsv.io/couto14/211219tv/168251.m3u8
+pfsv.io/6705646555/60670/168251.m3u8
