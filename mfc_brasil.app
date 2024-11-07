@@ -1550,7 +1550,7 @@ class HTTPSHandler:
 
 
 
-#EXTINF:-1 tvg-id="tvglobo" group-title=" " tvg-name="Status do serviço: 🟢" tvg-logo="https://myfamilycinema.com/wp-content/uploads/2022/05/cropped-MFClogo-01-1.png",Status do serviço: 🟢
+#EXTINF:-1 tvg-id="tvglobo"tvg-name="Status do serviço: 🟢" tvg-logo="https://myfamilycinema.com/wp-content/uploads/2022/05/cropped-MFClogo-01-1.png",Status do serviço: 🟢
 pfsv.io/6705646555/60670/168251.m3u8
 #EXTINF:-1 tvg-id="+SBT_canais" group-title="+SBT_Canais" tvg-name="+Criança" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKltbGEHepQEgXt4wCoz0FehGbzGSNNZhWH4v-4hxCCCk67_u6olXntCz&s=10.png",+Criança
 http://zlb190.ofcs.top/auth/424715.m3u8?token=KC-Qn9fPu1KX0tGSpN_o9QF0EXUlR_Sw9gXzMfNVHuIqW0qtdR8K6bELKh6RjDAtfMuI9Sh0D7t13OAgPg_DxPHDmXRrXX5-9tmOT_PIXaoH2-dElbKkEg9dD7xp_Tm3sVWrLJ5J2XiunmKh8QhANh7l2OYBSXcNozvdxFyy3Qt1gHusi-wRBAf_rilIEa_Ckzdziujjvnls4TZ3vFIjZPutWnhOFDLMZu27iCgF3Jm8k-s0K174T45PcD1yi_CdQYyq-pqDf8pn0pR2xs9cn3ORgisLvaymaOSysZqaxplv-5HQRq8f50iTjk0_gNYbngP0LygD22V0By95stBK14aIeGZXSw6iKZtqfK9E4fF_IYtQ0jJ3vOSim5Wll35wpTYyFSRWvINYLLgEmeUBf6DXGAFcq-s8DOrF7SRxET8vMFH8S_j0tW8WFcXUKGybrHmKqvdtdQVrSmuQnGxB-iRegzbAv2ako2F-Naa9oSRPE2pwU9waEogyl5djXSwHsY_4dxxDLCo1xQpLm2l0eN4KUuQMBCW13aAwOEY4-UlhWVmzQGT46Cq4-bZQuuijLjmfDaMtagvgHwuAJ9rARA&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MzA5OTU4ODgsIm5iZiI6MTczMDk5NTg4OCwiZXhwIjoxNzMxMDEwMjg4LCJpc3MiOiIiLCJqdGkiOiIxMzI0MTM4MDM2NzJjZTZiMGVmOGVkNS4yMDA0NzgyNiIsImFnZW50IjoiaU1QbGF5ZXJcLzIuMC43IChMaW51eDtBbmRyb2lkIDE0KSBBbmRyb2lkWE1lZGlhM1wvMS4zLjAiLCJ1c2VybmFtZSI6ImFkYWx0byIsImNsaWVudGUiOiIxNjguMTk3LjE4Mi42NiJ9.0VlIQt3OWBAvZ-fuQvDgXBcD8a2_4ktcIiTqL-djQvs&id=424715
