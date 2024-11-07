@@ -1552,3 +1552,5 @@ class HTTPSHandler:
 
 #EXTINF:-1 tvg-id="tvglobo" group-title=" " tvg-name="Status do serviço: 🟢" tvg-logo="https://myfamilycinema.com/wp-content/uploads/2022/05/cropped-MFClogo-01-1.png",Status do serviço: 🟢
 pfsv.io/6705646555/60670/168251.m3u8
+#EXTINF:-1 tvg-id="+SBT_canais" group-title="+SBT_Canais" tvg-name="+Criança" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPKltbGEHepQEgXt4wCoz0FehGbzGSNNZhWH4v-4hxCCCk67_u6olXntCz&s=10.png",+Criança
+https://bit.ly/4hRyJw3
