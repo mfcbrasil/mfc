@@ -18,7 +18,7 @@ https://bit.ly/mfcbr_app
 
 🎬 " https://bit.ly/mfc_brasil "
 
-| Agora so aproveitar! 📺
+| agora so aproveitar! 📺
 
 # Blog 💡
 > https://mfcbrasil.github.io/blog_mfc/
