@@ -21,5 +21,5 @@ https://bit.ly/mfcbr_app
 • agora so aproveitar! 📺
 
 # Blog 💡
-• https://mfcbrasil.github.io/blog_mfc/
+< https://mfcbrasil.github.io/blog_mfc/
 ![cropped-MFClogo-01-1](https://github.com/user-attachments/assets/ee60c745-be54-421a-a0b7-f8da2db94736)
