@@ -1,2 +1,7 @@
-# Importante ⚠️
-* cujo único objetivo é fornecer informações cinematográficas. Isso significa que não é responsável por fazer upload de qualquer conteúdo para a plataforma, nem por monitorar a disponibilidade de tal conteúdo. Portanto, os usuários são responsáveis ​​por fazer upload de seu próprio conteúdo, se assim o desejarem. Por este motivo, isenta de qualquer responsabilidade no caso de tal conteúdo ser de natureza ilegal.
+# Comece hoje mesmo 🍪
+Ao conectar sua nuvem à plataforma, é possível encontrar tudo automaticamente organizado por gênero, tema, premiações e muitas outras categorias, e começar a reproduzir seu conteúdo favorito sem interrupções.
+
+# Blog 🗣️
+https://mfcbrasil.github.io/blog_mfc/
+
+![eppi_cinema_14030816_215448188](https://github.com/user-attachments/assets/04d0cc53-66a3-4e60-a2b7-d493a37c7392)
