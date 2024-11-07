@@ -14,7 +14,6 @@ import m3u8
 playlist = m3u8.load('http://videoserver.com/playlist.m3u8')
 print(playlist.dumps())
 
-# ⚙️
 
 playlist.dump('playlist.m3u8')
 import gzip
