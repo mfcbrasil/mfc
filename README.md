@@ -1,7 +1,7 @@
 ![icons_downloads-28-120x120](https://github.com/user-attachments/assets/bc7efceb-451e-4b9b-b0e1-ef2be7b7a4e9)
 
-# Sobre ⚙️
-Dê Play nas suas histórias:
+# Sobre 🔔
+Dê Play nas suas histórias 🎟️:
 disponível apenas para dispositivos Android. Você também pode acessar através do seu computador com um emulador.
 
 # Usar o MFC
