@@ -12,7 +12,7 @@ https://bit.ly/mfcbr_app
 
 • Clique em "Adicionar Playlist"
 ![Screenshot_2024-11-06-22-57-27-653_com myiptvonline implayerm](https://github.com/user-attachments/assets/de38c776-8632-4165-8dec-0cdcf036aa92)
-• Clique em 'M3U e EPG'
+< Clique em 'M3U e EPG'
 # Ultimo passo ✨
 • Agora coloque esse link 👇
 
