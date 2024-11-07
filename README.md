@@ -15,7 +15,8 @@ https://bit.ly/mfcbr_app
 • Clique em 'M3U e EPG'
 # Ultimo passo ✨
 • Agora coloque esse link "https://bit.ly/mfc_brasil" 
-* agora so aproveitar! 📺
+
+• agora so aproveitar! 📺
 
 # Blog 💡
 • https://mfcbrasil.github.io/blog_mfc/
