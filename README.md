@@ -1,4 +1,5 @@
-![icons_downloads-28-120x120](https://github.com/user-attachments/assets/bc7efceb-451e-4b9b-b0e1-ef2be7b7a4e9)
+![cat](https://github.com/user-attachments/assets/8e747c97-3e78-4c6e-9acd-7194a2602fb7)
+
 
 # Sobre 🔔
 Dê Play nas suas histórias 🎟️
