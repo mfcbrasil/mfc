@@ -6,7 +6,8 @@ Dê Play nas suas histórias 🎟️
 disponível apenas para dispositivos Android. Você também pode acessar através do seu computador com um emulador.
 
 # Usar o MFC
-Para usar o "MFC" e bem facil, baixe o app
+Para usar o "MFC" e bem facil, 
+baixe o app
 Baixe aqui: 
 https://bit.ly/mfcbr_app
 > Baixou? 🤩
